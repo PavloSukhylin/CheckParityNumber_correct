@@ -1,3 +1,5 @@
+package com.alevel.adv;
+
 public class CheckParityNumber {
     public static void main(String[] args) {
         int number = 27;
